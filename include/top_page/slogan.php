@@ -1,0 +1,1 @@
+<span class="logo_text_main">Покупка и доставка товаров из США</span>
